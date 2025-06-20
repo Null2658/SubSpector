@@ -12,7 +12,7 @@ SubSpector is a comprehensive security analysis tool designed to discover, monit
 
 - 🔍 **Comprehensive Subdomain Discovery** - Advanced enumeration using multiple sources
 - 🛡️ **Security Analysis** - SSL certificates, security headers, and vulnerability assessment
-- 🔒 **security assessment** - Comprehensive 0-100 security rating system
+- 🔒 **Security Assessment** - Comprehensive 0-100 security rating system
 - ⚠️ **Takeover Detection** - Identifies potential subdomain takeover vulnerabilities
 - 📊 **Real-time Monitoring** - Continuous monitoring with customizable intervals
 - 📈 **Detailed Reporting** - JSON reports with comprehensive statistics
