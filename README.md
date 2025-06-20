@@ -1,5 +1,4 @@
-# 🛡️ SubSpector v1.4
-
+# 🛡️ SubSpector 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)]()
@@ -267,12 +266,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you discover a security vulnerability, please send an email to security@subspector.dev. All security vulnerabilities will be promptly addressed.
 
-## 📞 Support
-
-- 📧 **Email**: support@subspector.dev
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/subspector/issues)
-- 📖 **Documentation**: [Wiki](https://github.com/your-username/subspector/wiki)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/your-username/subspector/discussions)
 
 ## 🏆 Acknowledgments
 
@@ -280,19 +273,5 @@ If you discover a security vulnerability, please send an email to security@subsp
 - Security community - For continuous feedback and improvements
 - Contributors - Thank you for making SubSpector better
 
-## 📊 Statistics
-
-- **⭐ Stars**: Help us reach 1000 stars!
-- **🍴 Forks**: Join our community of developers
-- **🐛 Issues**: Help us improve by reporting bugs
-- **✅ Contributors**: Be part of our growing team
-
----
-
-<div align="center">
-
-**Made with ❤️ by the SubSpector Team**
-
-[⭐ Star us on GitHub](https://github.com/your-username/subspector) • [📖 Documentation](https://github.com/your-username/subspector/wiki) • [🚀 Get Started](#-quick-start)
 
 </div>
