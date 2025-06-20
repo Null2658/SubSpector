@@ -1,0 +1,22 @@
+# SubSpector Dependencies
+# Advanced Subdomain Monitoring & Security Analysis Tool
+
+# Core HTTP and networking
+requests>=2.31.0
+
+# WHOIS information retrieval
+python-whois>=0.8.0
+
+# DNS resolution and queries
+dnspython>=2.3.0
+
+# Colored terminal output
+termcolor>=2.3.0
+colorama>=0.4.6
+
+# SSL/TLS and cryptography
+pyOpenSSL>=23.0.0
+cryptography>=41.0.0
+
+# Environment configuration
+python-dotenv>=1.0.0
