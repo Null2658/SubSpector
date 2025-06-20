@@ -7,7 +7,6 @@
 
 SubSpector is a comprehensive security analysis tool designed to discover, monitor, and analyze subdomains for security vulnerabilities. It provides real-time monitoring, SSL certificate analysis, security headers assessment, and subdomain takeover detection.
 
-![SubSpector Banner](https://via.placeholder.com/800x200/6A4C93/FFFFFF?text=SubSpector+v1.4)
 
 ## ✨ Key Features
 
