@@ -150,38 +150,6 @@ SubSpector/
 - Service-specific vulnerability patterns
 - Risk assessment and recommendations
 
-## 📊 Reporting & Logging
-
-### Report Formats
-- **JSON Reports** - Machine-readable analysis results
-- **Terminal Output** - Human-readable real-time feedback
-- **Log Files** - Structured logging for debugging
-
-### Log Categories
-```
-logs/
-├── security/     # Security analysis logs
-├── terminal/     # Terminal output logs
-├── stats/        # Performance statistics
-└── whois/        # Domain information logs
-```
-
-## 🛠️ Advanced Configuration
-
-### Custom DNS Servers
-```python
-# In config.py
-DNS_SERVERS = ['8.8.8.8', '1.1.1.1', '208.67.222.222']
-```
-
-### Performance Tuning
-```bash
-# Limit concurrent connections
-python subspector.py example.com -n 100
-
-# Custom monitoring interval
-python subspector.py example.com -m monitor -i 300
-```
 
 ## 🔧 Troubleshooting
 
@@ -217,45 +185,6 @@ chmod +x subfinder
 nslookup google.com 8.8.8.8
 ```
 
-## 📈 Performance Optimization
-
-### System Requirements
-- **Minimum**: 512MB RAM, 100MB storage
-- **Recommended**: 1GB RAM, 500MB storage
-- **High Performance**: 2GB RAM, 1GB storage
-
-### Optimization Tips
-1. Use SSD storage for better I/O performance
-2. Ensure stable internet connection
-3. Close unnecessary applications during analysis
-4. Use `-n` flag to limit subdomain count for testing
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our contributing guidelines:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Setup
-```bash
-# Clone for development
-git clone https://github.com/your-username/subspector.git
-cd subspector
-
-# Install development dependencies
-pip install -r requirements.txt
-pip install pytest black flake8
-
-# Run tests
-pytest tests/
-
-# Format code
-black subspector.py
-```
 
 ## 📄 License
 
@@ -269,8 +198,6 @@ If you discover a security vulnerability, please send an email to security@subsp
 ## 🏆 Acknowledgments
 
 - [ProjectDiscovery](https://github.com/projectdiscovery) - For the excellent subfinder tool
-- Security community - For continuous feedback and improvements
-- Contributors - Thank you for making SubSpector better
 
 
 </div>
