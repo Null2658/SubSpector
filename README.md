@@ -1,4 +1,4 @@
-# 🛡️ SubSpector 
+# 🟣 SubSpector 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)]()
@@ -63,22 +63,22 @@ python subspector.py reddit.com -m analysis
 
 ### Security Analysis Mode (Default)
 ```bash
-python subspector.py example.com -m security
+python subspector.py target.com -m security
 ```
 
 ### Comprehensive Analysis Mode
 ```bash
-python subspector.py reddit.com -m analysis
+python subspector.py target.com -m analysis
 ```
 
 ### Continuous Monitoring Mode
 ```bash
-python subspector.py facebook.com -m monitor -i 600
+python subspector.py target.com -m monitor -i 600
 ```
 
 ### Limited Analysis (for testing)
 ```bash
-python subspector.py github.com -m analysis -n 50
+python subspector.py target.com -m analysis -n 50
 ```
 
 ## 🔧 Analysis Modes
@@ -177,13 +177,6 @@ chmod +x subfinder
 # Windows: Download from GitHub releases page
 # https://github.com/projectdiscovery/subfinder/releases
 ```
-
-**DNS Resolution Issues**
-```bash
-# Test DNS connectivity
-nslookup google.com 8.8.8.8
-```
-
 
 ## 📄 License
 
